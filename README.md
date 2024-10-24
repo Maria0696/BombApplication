@@ -19,7 +19,7 @@ This project is a simple Flutter application where a button simulates a "bomb" t
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/bomb-app.git
+   git clone https://github.com/Maria0696/BombApplication.git
    
 2. Navigate to the project directory:
 
