@@ -61,6 +61,7 @@ class _BombPageState extends State<_BombPage> {
                     style: TextStyle(
                       fontSize: 30,
                       fontWeight: FontWeight.bold,
+                      color: Colors.red,
                     ),
                   ),
                   SizedBox(height: 20),
