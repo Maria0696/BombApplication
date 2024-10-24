@@ -24,7 +24,7 @@ This project is a simple Flutter application where a button simulates a "bomb" t
 2. Navigate to the project directory:
 
     ```bash
-   cd bomb-app
+   cd BombApplication
     
 3. Install the dependencies:
 
